@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="image_view_transition_name">image_view_transition_name</string>
+    <string name="image_title_transition_name">image_title_transition_name</string>
+    <string name="search_topic">Search Topic</string>
+    <string name="search_hint">Search Topic</string>
+
+</resources>
